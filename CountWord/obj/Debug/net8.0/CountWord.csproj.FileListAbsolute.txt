@@ -1,0 +1,14 @@
+D:\Test\SWID\CountWord\bin\Debug\net8.0\CountWord.exe
+D:\Test\SWID\CountWord\bin\Debug\net8.0\CountWord.deps.json
+D:\Test\SWID\CountWord\bin\Debug\net8.0\CountWord.runtimeconfig.json
+D:\Test\SWID\CountWord\bin\Debug\net8.0\CountWord.dll
+D:\Test\SWID\CountWord\bin\Debug\net8.0\CountWord.pdb
+D:\Test\SWID\CountWord\obj\Debug\net8.0\CountWord.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\SWID\CountWord\obj\Debug\net8.0\CountWord.AssemblyInfoInputs.cache
+D:\Test\SWID\CountWord\obj\Debug\net8.0\CountWord.AssemblyInfo.cs
+D:\Test\SWID\CountWord\obj\Debug\net8.0\CountWord.csproj.CoreCompileInputs.cache
+D:\Test\SWID\CountWord\obj\Debug\net8.0\CountWord.dll
+D:\Test\SWID\CountWord\obj\Debug\net8.0\refint\CountWord.dll
+D:\Test\SWID\CountWord\obj\Debug\net8.0\CountWord.pdb
+D:\Test\SWID\CountWord\obj\Debug\net8.0\CountWord.genruntimeconfig.cache
+D:\Test\SWID\CountWord\obj\Debug\net8.0\ref\CountWord.dll
